@@ -1,2 +1,2 @@
-# hello-world
-Just say hello
+# hello-worl
+This is an example for learning Github.
